@@ -1,4 +1,4 @@
-# Abuk Mayen Duot- Resume Website
+# Resume Website
 
 This is my personal resume website showcasing my skills, experience, education, and projects in a visually appealing and mobile-friendly format.
 
